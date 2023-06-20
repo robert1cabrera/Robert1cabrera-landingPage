@@ -14,3 +14,12 @@
     display: flex;
     justify-content: space-between;
 }
+.jumbotron {
+    padding: 50px;
+    
+}
+
+.display-4 {
+font-size: 75px;
+font-weight: 600;
+}
